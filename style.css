@@ -1,17 +1,5 @@
 body{
 font-family: Arial;
-background-color:#f4f4f4;
-margin:40px;
-}
-
-h1{
-color:#1f3c88;
-}
-
-img{
-border-radius:50%;
-}
-
-h2{
-margin-top:20px;
+background:#f4f4f4;
+margin:0;
 }
